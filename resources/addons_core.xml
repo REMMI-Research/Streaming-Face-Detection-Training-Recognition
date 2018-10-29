@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<addonCore>
+
+  <label>Streaming Face Detection, Training, Recognition</label>
+
+  <version>2.1.0.0</version>
+
+  <type>zip</type>
+
+  <identifier>0c9fbb97-b9f3-4ed7-910d-dbdbf06a38a3</identifier>
+
+  <createdBy name="Brett Shoelson"/>
+
+  <image>resources/screenshot.png</image>
+
+</addonCore>
